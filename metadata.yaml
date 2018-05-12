@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25110
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Coppel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31767#The-Peacemaker
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-03-25'
 gutenberg_type: Text
